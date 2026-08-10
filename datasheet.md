@@ -9,8 +9,7 @@ The dataset contains:
 10 rounds of queries
 8 functions per round
 19 total data points per function
-Each query is a vector of floating‑point values in 
-[0,1], formatted to six decimal places
+Each query is a vector of floating‑point values in [0,1], formatted to six decimal places
 Each output is a single numeric value (float)
 
 The dataset includes:
